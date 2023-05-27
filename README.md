@@ -1,6 +1,6 @@
 # 💎 Fullstack Dynamic NFT Mini Game🎮  💎Using Diamond Standard
 
-### [Play On 💎🎮](http://diamond-dapp.vercel.app/) ⏩ http://diamond-dapp.vercel.app/
+### [Play On 💎🎮]
 
 ## Project Description 📝
 
@@ -38,13 +38,6 @@ Multi-Facet Proxies for full control over your upgrades.
 Diamonds are a proxy pattern for Solidity development that allows a single gateway contract to proxy calls and storage to any number of other contracts. This provides a single interface for anyone to use your contracts, while allowing your feature set to grow into many contracts. The Diamond Standard also allows for replacing or extending functionality after your contracts are deployed.
 
 
-## Run this project locally 🏃🏾‍♂️💨
-
-```shell
-git clone https://github.com/ShivaShanmuganathan/diamond-dapp
-```
-
-### Frontend 🎨🖌
 
 - `cd frontend`
 - `yarn install` Install Dependencies
